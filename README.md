@@ -1,5 +1,5 @@
 # tc_maps
-The repository provide sharing maps for Tsukuba Challenge.
+tc_maps provide sharing maps for Tsukuba Challenge.
 
 # License
 
