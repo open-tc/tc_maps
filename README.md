@@ -1,5 +1,5 @@
 # tc_maps
-tc_maps provide sharing maps for Tsukuba Challenge.
+tc_maps share maps for Tsukuba Challenge.
 
 # Contribute
 
